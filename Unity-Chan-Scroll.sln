@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{603A8CF4-3248-D492-3ECA-40D54FBE1DCE}") = "Unity-Chan-Scroll", "Assembly-CSharp.csproj", "{8026B3FD-2FCC-7C8A-4FB3-E0758CCDD433}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8026B3FD-2FCC-7C8A-4FB3-E0758CCDD433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8026B3FD-2FCC-7C8A-4FB3-E0758CCDD433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8026B3FD-2FCC-7C8A-4FB3-E0758CCDD433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8026B3FD-2FCC-7C8A-4FB3-E0758CCDD433}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
